@@ -72,7 +72,9 @@ picture 10
 </p>
 picture 11
 
-## **Severity Evaluation**
+### **Severity Evaluation**
 Severity Ratings for Usability Problems | Rating
 ---|---|
+There are minor cosmetic problems such as the low contrast between the background and menu button which can be categorized in the lowest priority. Since there are few sections with which users have more interactions (filling forms, calender issue), it is recommended to them as soon as possible. | 2-3
 
+## Second: 
