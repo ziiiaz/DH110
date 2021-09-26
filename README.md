@@ -6,7 +6,7 @@ The Department of Homeland Security tries to provide basic but sufficcient infor
 <p align="center">
   <img src="https://github.com/ziiiaz/DH110/blob/main/W1%20recall%20issue.jpg" alt="Homepage tab" height = "300px"/>
 </p>
-The issues which I will describe based on the ten hueristics are observed inside these tabs and the tab itself. These issues are tried to be demostrated in separate screenshots and highlighted with red dash lines. In the table below, the evaluation is categorized as *fine*, *bad*, *worse*. The analysis is performed by imagining that the operating system which our potential senior user working with is either a tablet (touched screen with no mounted typecover) or a PC (Microsoft Windows 10). 
+The issues which I will describe based on the ten hueristics are observed inside these tabs and the tab itself. These issues are tried to be demostrated in separate screenshots and highlighted with red dash lines. In the table below, the evaluation is categorized as *good, fine, bad, worse*. The analysis is performed by imagining that the operating system which our potential senior user working with is either a tablet (touched screen with no mounted typecover) or a PC (Microsoft Windows 10). 
 
 
 Heuristics | Evaluation | Consideration 
@@ -19,18 +19,18 @@ Heuristics | Evaluation | Consideration
 6.Recognition Rather Than Recall | *bad* (on PC - **picture 1**): The possibility of knowing search history in a browser like Chrome is not hight for a senior user. If she wants to revisit DHS website and go to what she left unfinished, the sixth priciple comes handy. She could open the website, tries to recall which page she visited last time. However, DHS design does not provide a dropdown menu in homepage tab ribbon. A senior user presumably would have a hard time to deal with this issue | A dropdown menu which could succinctly give a demonstration of the website helps the user to recognize which pages she visited last time. 
 7.Flexibility and Efficiency of Use | *bad* (on tablet - **picture 9**): Other than using the scroll and click, there is no other way to type numbers in the field. Touching the field/box does not execute an order to the device to use its virtual keyboard. As mentioned in the fifth principle, there is a *bad* issue with this part for a person who want to file a complaint. The design seemingly does not support the tablet keyoard which leave the user with her only option, choosing from the calender with its infinite year.  | It is better to implement (a few lines of) code in the design which executes on-screen keyboard or immediately change the calender design with a more user-friendly one.  
 8.Aesthetic and Minimalist Design | *fair* (on PC and tablet - **picture 10**): When a user clicks on the search button in the small size window, the website takes her to another page where one white box is placed on top of a simialr one. The bottom one has a message that use the box above to type your search keywords. Based on the eighth principle it is redundant to have the second box (bottom) | Put the message in the top box and change the color to gray. The text should disappear when a user clicks or touchs the box. 
-9.Help Users Recognize, Diagnose, and Recover From Errors |
-10.Help and Documentation |
+9.Help Users Recognize, Diagnose, and Recover From Errors | *good-fair* (on any device - **picture 11**): In case of leaving a field empty during filing a complaint, the website directs the user's attention to fields which are required to be filled. However, it does let user leave other fields empty in two previous pages. A user might not notice this error. While the website tried to minize the page lenght by diving the fields in three parts, a user would see a notification about the empty field in the third page. | The error about empty fields must appear in all pages. 
+10.Help and Documentation | *bad* (on any device - **picture 3 & 8**): As previously mentioned in the second principle, the website apparantly assumes its users understand the term used in the fields which could be an incorrect assumption. Providing more details about how to fill the form could be done in a way that neither confuses users nor makes aesthetic flaws. | Adding complementary information in a small clickable/touchable balloon with a "i" letter in them could mitigate the confusion. 
 
 <p align="center">
   <img src="https://github.com/ziiiaz/DH110/blob/main/Real%20world%20w1.jpg" alt="Real world 1" height = "300px"/>
 </p>
-pictur 2
+picture 2
 
 <p align="center">
   <img src="https://github.com/ziiiaz/DH110/blob/main/REAL%20WORLD%20W1-2.jpg" alt="Real world 2" height = "300px"/>
 </p>
-pictur 3
+picture 3
 
 <p align="center">
   <img src="https://github.com/ziiiaz/DH110/blob/main/W1%20Control%20Freedo%2C%201.jpg" alt="Freedom1" height = "300px"/>
@@ -66,6 +66,11 @@ picture 9
   <img src="https://github.com/ziiiaz/DH110/blob/main/W1%20after%20clicking%20on%20the%20search%20button%20in%20small%20width%20copy.jpg" alt="contrast" height = "300px"/>
 </p>
 picture 10
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/recognize%20error.jpg" alt="rec error" height = "300px"/>
+</p>
+picture 11
 
 ## **Severity Evaluation**
 Severity Ratings for Usability Problems | Rating
