@@ -34,7 +34,7 @@ picture 4
 picture 5
 
 <p align="center">
-  <img src="https://github.com/ziiiaz/DH110/blob/main/W1%20after%20clicking%20on%20the%20search%20button%20in%20small%20width%20copy.jpg" alt="Not Consistent2" height = "300px"/>
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W1%20Clickable%20icon%20different.png" alt="Not Consistent2" height = "300px"/>
 </p>
 picture 6
 
