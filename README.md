@@ -18,7 +18,7 @@ Heuristics | Evaluation | Consideration
 5.Error Prevention | *bad* (on PC and tablet - **picture 9**): If a user wants to file a complaint she is likely to be stuck in the part Flight Date. As the picture shows, a suddent click or a fast scroll down can move the calender to 200 years later. It is not easy for a senior user to find that small stick on the righ of the years, drag it to 2021. She would probably miss it. | It is not necessary to have a calender for the next millennium. 
 6.Recognition Rather Than Recall | *bad* (on PC - **picture 1**): The possibility of knowing search history in a browser like Chrome is not hight for a senior user. If she wants to revisit DHS website and go to what she left unfinished, the sixth priciple comes handy. She could open the website, tries to recall which page she visited last time. However, DHS design does not provide a dropdown menu in homepage tab ribbon. A senior user presumably would have a hard time to deal with this issue | A dropdown menu which could succinctly give a demonstration of the website helps the user to recognize which pages she visited last time. 
 7.Flexibility and Efficiency of Use | *bad* (on tablet - **picture 9**): Other than using the scroll and click, there is no other way to type numbers in the field. Touching the field/box does not execute an order to the device to use its virtual keyboard. As mentioned in the fifth principle, there is a *bad* issue with this part for a person who want to file a complaint. The design seemingly does not support the tablet keyoard which leave the user with her only option, choosing from the calender with its infinite year.  | It is better to implement (a few lines of) code in the design which executes on-screen keyboard or immediately change the calender design with a more user-friendly one.  
-8.Aesthetic and Minimalist Design |
+8.Aesthetic and Minimalist Design | *fair* (on PC and tablet - **picture 10**): When a user clicks on the search button in the small size window, the website takes her to another page where one white box is placed on top of a simialr one. The bottom one has a message that use the box above to type your search keywords. Based on the eighth principle it is redundant to have the second box (bottom) | Put the message in the top box and change the color to gray. The text should disappear when a user clicks or touchs the box. 
 9.Help Users Recognize, Diagnose, and Recover From Errors |
 10.Help and Documentation |
 
@@ -60,7 +60,12 @@ picture 8
 <p align="center">
   <img src="https://github.com/ziiiaz/DH110/blob/main/W1%20filing%20many%20issues%20%23%206%207%209%2010.png" alt="efficiency" height = "300px"/>
 </p>
-picture 8
+picture 9
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W1%20after%20clicking%20on%20the%20search%20button%20in%20small%20width%20copy.jpg" alt="contrast" height = "300px"/>
+</p>
+picture 10
 
 ## **Severity Evaluation**
 Severity Ratings for Usability Problems | Rating
