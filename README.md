@@ -122,12 +122,12 @@ picture 3
 picture 4
 
 <p align="center">
-  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20inconsistent%20-%20the%20menu%20has%20no%20top%20button%20but%20here.png" alt="rec error" height = "300px"/>
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20inconsistent%20with%20the%20internal.png" alt="inconsistent" height = "300px"/>
 </p>
 picture 5
 
 <p align="center">
-  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20inconsistent%20with%20the%20internal.png" alt="rec error" height = "300px"/>
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20inconsistent%20-%20the%20menu%20has%20no%20top%20button%20but%20here.png" alt="inconsistent2" height = "300px"/>
 </p>
 picture 6
 
