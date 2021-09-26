@@ -29,12 +29,12 @@ Heuristics | Evaluation | Consideration
 picture 4
 
 <p align="center">
-  <img src="https://github.com/ziiiaz/DH110/blob/main/onethird%20screen%20width%20-%20W1%20%20-%20%233%204%20possibly%205%20copy.jpg" alt="Not Consistent" height = "300px"/>
+  <img src="https://github.com/ziiiaz/DH110/blob/main/onethird%20screen%20width%20-%20W1%20%20-%20%233%204%20possibly%205%20copy.jpg" alt="Not Consistent1" height = "300px"/>
 </p>
 picture 5
 
 <p align="center">
-  <img src="https://github.com/ziiiaz/DH110/blob/main/file%20a%20complaint%20%20W1%20issue%20%234.png" alt="Not Consistent" height = "300px"/>
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W1%20after%20clicking%20on%20the%20search%20button%20in%20small%20width%20copy.jpg" alt="Not Consistent2" height = "300px"/>
 </p>
 picture 6
 
