@@ -2,6 +2,8 @@
 DH110 Weekly Assignment - Week One | Zia Khoshsirat
 
 ## First: [Department of Homeland Security](https://www.dhs.gov/)
+<details>
+<summary>"click to expand"</summary>
 The Department of Homeland Security tries to provide basic but sufficcient information in its website to the potential audience/users regarding the rights, regualtions, and most recent changes which might affect U.S. citizens and foreign travellers. While this department is responsible for varieties of tasks and regulations, the website is fairly simple, avoides an excessively busy homepage. Most of the website's information are placed on a tab ribbon (picture 1)
 <p align="center">
   <img src="https://github.com/ziiiaz/DH110/blob/main/W1%20recall%20issue.jpg" alt="Homepage tab" height = "300px"/>
@@ -20,7 +22,7 @@ Heuristics | Evaluation | Consideration
 7.Flexibility and Efficiency of Use | *bad* (on tablet - **picture 9**): Other than using the scroll and click, there is no other way to type numbers in the field. Touching the field/box does not execute an order to the device to use its virtual keyboard. As mentioned in the fifth principle, there is a *bad* issue with this part for a person who want to file a complaint. The design seemingly does not support the tablet keyoard which leave the user with her only option, choosing from the calender with its infinite year.  | It is better to implement (a few lines of) code in the design which executes on-screen keyboard or immediately change the calender design with a more user-friendly one.  
 8.Aesthetic and Minimalist Design | *fair* (on PC and tablet - **picture 10**): When a user clicks on the search button in the small size window, the website takes her to another page where one white box is placed on top of a simialr one. The bottom one has a message that use the box above to type your search keywords. Based on the eighth principle it is redundant to have the second box (bottom) | Put the message in the top box and change the color to gray. The text should disappear when a user clicks or touchs the box. 
 9.Help Users Recognize, Diagnose, and Recover From Errors | *good-fair* (on any device - **picture 11**): In case of leaving a field empty during filing a complaint, the website directs the user's attention to fields which are required to be filled. However, it does let user leave other fields empty in two previous pages. A user might not notice this error. While the website tried to minize the page lenght by diving the fields in three parts, a user would see a notification about the empty field in the third page. | The error about empty fields must appear in all pages. 
-10.Help and Documentation | *bad* (on any device - **picture 3 & 8**): As previously mentioned in the second principle, the website apparantly assumes its users understand the term used in the fields which could be an incorrect assumption. Providing more details about how to fill the form could be done in a way that neither confuses users nor makes aesthetic flaws. | Adding complementary information in a small clickable/touchable balloon with a "i" letter in them could mitigate the confusion. 
+10.Help and Documentation | *bad* (on any device - **picture 3 & 8**): As previously mentioned in the second principle, the website apparantly assumes its users understand the term used in the fields, which could be an incorrect assumption. Providing more details about how to fill the form could be done in a way that neither confuses users nor makes aesthetic flaws. | Adding complementary information in a small clickable/touchable balloon with a "i" letter in them could mitigate the confusion. 
 
 <p align="center">
   <img src="https://github.com/ziiiaz/DH110/blob/main/Real%20world%20w1.jpg" alt="Real world 1" height = "300px"/>
@@ -77,4 +79,64 @@ Severity Ratings for Usability Problems | Rating
 ---|---|
 There are minor cosmetic problems such as the low contrast between the background and menu button which can be categorized in the lowest priority. Since there are few sections with which users have more interactions (filling forms, calender issue), it is recommended to them as soon as possible. | 2-3
 
-## Second: 
+  ### Overall Assessment
+The website which is analyzed here contains several pages and information related to the Deparment of Homeland Security and other govermental sections. It is not easy to avoid all the small mistakes in coding and designing. Excepct for the calender part, I do not think the current condition of this website could cause a major issue for the department and its users. Fixing these small issues would probably not take the designers and coders time and not be costly for the government. 
+</details>
+
+
+## Second: [U.S. Custome and Border Protection](https://www.cbp.gov/about)
+
+The U.S. Costume and Border Protection is a large organization which is responsible for security of U.S. borders, protecting people from threats and U.S. agriculture from potential damages. With more than 60000 employees, it is obvious that this section of the government is dealing with other organizations inside and outside of the country. Therefore, it should not surprise someone to expect a website fulfilling its users' needs and questions. For the second part of assignment, we will analyze ten usability principles for UI Designs. Similar to the first part, the analyses will be supplemented with screenshots from the website and be categorized as *good, fine, bad, worse*. The target users are seniors.
+
+Heuristics | Evaluation | Consideration 
+---|---|---
+1.Visibility of System Status | *bad* (on any device - **picture 1**): When our senior user (a 76 year-old man) tries to send an email to the realted department, he finds this page and a nice clear sqaure which says "Email Preclearance to Request Application." This page is simple and clickable square is easy to notice on a PC and tablet. The issue is not the visibility but the function of this blue button. It does not do something for the user and no message appears with any further information.   | The code should be changed or updated: it must excecute the order. Either link the button to an external source or create a popup message which provides information about why it does not work (which is in contrast with the eighth principle).
+2.Match Between System and the Real World | *bad* (on any device - **picture 2**): When the user wants to learn about the I-94 forms and how to get the most recent I-94 in order to provide it to an organization, the CBP website directs him to an instruction. Beside the bad resolution of the instruction, the designers tried to add something to convey a message to users that you should click on this blue button. They added "click" with low visible color at the bottom of the cursor (mouse) and an orange circle with three dark (spiky) lines around it. It is understandable that they were trying to emphasize on the clicking action (that just hovering the mouse over it does not do something). However, the shape they used does not represent the action of clicking in reality  | The spiky circle should be replaced with a clear message. If they cannot provide instruction in GIF format, at least adding a message like "click/touch here" prevents possible confusion.   
+3.User Control and Freedom | *bad* (on PC and tablet) - **picture 3 & 4**): 
+4.Consistency and Standards | *bad* (on PC and tablet - **picture 7 & 8**) When a user clicks on How Do I and on Apply for a U.S. Passport, in the user's fullscreen mode she sees a menu on the left, Expand All Sections in th middle, a directory of where she is on the top left, and a search box on top right (picture 4). If she clicks on Expand All Sections she can see the information under each tab. However, if suddenly the size of the browser window get smaller (1/3 fullscreen), she will have a different arrangement (picture 5). The menu goes to the top left (three lines), the Expand All disappears and the search box appears as a magnifier and Search on top right. This could be categorized as inconsistency within the internal system. We could expect such a change across different devices (phone to PC), but a change in the browser's size could be handled better| In smaller window size, instead of Last Published Date, adding Exand/Collapse All Sections works better is in conssitancy with the system in fullscreen window. Menu and Search can be less blurry and more visible by using different colors and fonts. 
+5.Error Prevention | *bad* (on PC and tablet - **picture 9**): If a user wants to file a complaint she is likely to be stuck in the part Flight Date. As the picture shows, a suddent click or a fast scroll down can move the calender to 200 years later. It is not easy for a senior user to find that small stick on the righ of the years, drag it to 2021. She would probably miss it. | It is not necessary to have a calender for the next millennium. 
+6.Recognition Rather Than Recall | *bad* (on PC - **picture 1**): The possibility of knowing search history in a browser like Chrome is not hight for a senior user. If she wants to revisit DHS website and go to what she left unfinished, the sixth priciple comes handy. She could open the website, tries to recall which page she visited last time. However, DHS design does not provide a dropdown menu in homepage tab ribbon. A senior user presumably would have a hard time to deal with this issue | A dropdown menu which could succinctly give a demonstration of the website helps the user to recognize which pages she visited last time. 
+7.Flexibility and Efficiency of Use | *bad* (on tablet - **picture 9**): Other than using the scroll and click, there is no other way to type numbers in the field. Touching the field/box does not execute an order to the device to use its virtual keyboard. As mentioned in the fifth principle, there is a *bad* issue with this part for a person who want to file a complaint. The design seemingly does not support the tablet keyoard which leave the user with her only option, choosing from the calender with its infinite year.  | It is better to implement (a few lines of) code in the design which executes on-screen keyboard or immediately change the calender design with a more user-friendly one.  
+8.Aesthetic and Minimalist Design | *fair* (on PC and tablet - **picture 10**): When a user clicks on the search button in the small size window, the website takes her to another page where one white box is placed on top of a simialr one. The bottom one has a message that use the box above to type your search keywords. Based on the eighth principle it is redundant to have the second box (bottom) | Put the message in the top box and change the color to gray. The text should disappear when a user clicks or touchs the box. 
+9.Help Users Recognize, Diagnose, and Recover From Errors | *good-fair* (on any device - **picture 11**): In case of leaving a field empty during filing a complaint, the website directs the user's attention to fields which are required to be filled. However, it does let user leave other fields empty in two previous pages. A user might not notice this error. While the website tried to minize the page lenght by diving the fields in three parts, a user would see a notification about the empty field in the third page. | The error about empty fields must appear in all pages. 
+10.Help and Documentation | *bad* (on any device - **picture 3 & 8**): As previously mentioned in the second principle, the website apparantly assumes its users understand the term used in the fields, which could be an incorrect assumption. Providing more details about how to fill the form could be done in a way that neither confuses users nor makes aesthetic flaws. | Adding complementary information in a small clickable/touchable balloon with a "i" letter in them could mitigate the confusion. 
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20nothing%20happens.jpg" alt="visibility" height = "300px"/>
+</p>
+picture 1
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20real%20world.jpg" alt="real world" height = "300px"/>
+</p>
+picture 2
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20menu%20plus%20sign%20NO%20up%20button.jpg" alt="freedom" height = "300px"/>
+</p>
+picture 3
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20no%20up%20button%20and%20confusing%20links%202.jpg" alt="freedom" height = "300px"/>
+</p>
+picture 4
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/recognize%20error.jpg" alt="rec error" height = "300px"/>
+</p>
+picture 1
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/recognize%20error.jpg" alt="rec error" height = "300px"/>
+</p>
+picture 1
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/recognize%20error.jpg" alt="rec error" height = "300px"/>
+</p>
+picture 1
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/recognize%20error.jpg" alt="rec error" height = "300px"/>
+</p>
+picture 1
