@@ -95,11 +95,11 @@ Heuristics | Evaluation | Consideration
 3.User Control and Freedom | *bad* (on PC and tablet) - **picture 3 & 4**): In small size window, the homepage menu changes from a tab ribbon to three line button menu. When a user clicks on the button (if he finds it due to the low contrast between lighter blue and darker blue) a nice list (picture 3) appear with a clear plus (+) sign on the right side of each title. If the user click or touch each of these plus signs, they expand to more titles which are linked to different pages in the website. Although this is a great option which only appears in reduced size window, the issue is the difficulty for a senior user to scroll up to the top of the page. | Simply, a top button which moves the page to the beginning resovles the issue
 4.Consistency and Standards | *fine-bad* (on PC and tablet - **picture 5 & 6**) Following the previous principle, the menu tranformation -from dropdown menu (sensetive to the mouse movement) to an expandable list menu (picture 3 & 4)- is significant. It list menu is detailed with many links and titles while the one captured in picture 5 does not resemble the other one. Picture 6 shows that for a page which does not need a top/up button, designers considered one. However, for the list menu (picture 4) they did not add it to facilitate the scrolling up issue for some senior users. | The homepage tab menu should be more similar to the list menu. The top/up button must be added to all long pages.
 5.Error Prevention | *worse* (on PC - **picture 7 & 8**): There is a useful page for users in  CBP wesite which provides details about what travellers can and cannot bring in to the country. As pciture 7 demonstrates, there are an expandable list of items and categories with useful information and links which answer the majority of basic questions. On the top right corner of the page, there is another useful piece "Printer-friendly version" if someone wants to print this page and reads it on paper or later on the his device. When a user clicks on it, all tabs opens in expansion mode. The designer considered "Expand All" button there but the reason is not clear (unless someone wants to print the titles). The issue of this section is if user accidently touches or click on one of these tabs (titles), it gets closed/collapsed which should not be a problem. However, as picture 8 shows, the text in the collapsed tab appears overalpped on its bottom tab, results in a scrambled text. | Either the design should remove this option which might be coflict with the seventh and ninth principle, or edit the code to prevent this issue.
-6.Recognition Rather Than Recall | *bad* (on PC - **picture 1**): The possibility of knowing search history in a browser like Chrome is not hight for a senior user. If she wants to revisit DHS website and go to what she left unfinished, the sixth priciple comes handy. She could open the website, tries to recall which page she visited last time. However, DHS design does not provide a dropdown menu in homepage tab ribbon. A senior user presumably would have a hard time to deal with this issue | A dropdown menu which could succinctly give a demonstration of the website helps the user to recognize which pages she visited last time. 
-7.Flexibility and Efficiency of Use | *bad* (on tablet - **picture 9**): Other than using the scroll and click, there is no other way to type numbers in the field. Touching the field/box does not execute an order to the device to use its virtual keyboard. As mentioned in the fifth principle, there is a *bad* issue with this part for a person who want to file a complaint. The design seemingly does not support the tablet keyoard which leave the user with her only option, choosing from the calender with its infinite year.  | It is better to implement (a few lines of) code in the design which executes on-screen keyboard or immediately change the calender design with a more user-friendly one.  
-8.Aesthetic and Minimalist Design | *fair* (on PC and tablet - **picture 10**): When a user clicks on the search button in the small size window, the website takes her to another page where one white box is placed on top of a simialr one. The bottom one has a message that use the box above to type your search keywords. Based on the eighth principle it is redundant to have the second box (bottom) | Put the message in the top box and change the color to gray. The text should disappear when a user clicks or touchs the box. 
-9.Help Users Recognize, Diagnose, and Recover From Errors | *good-fair* (on any device - **picture 11**): In case of leaving a field empty during filing a complaint, the website directs the user's attention to fields which are required to be filled. However, it does let user leave other fields empty in two previous pages. A user might not notice this error. While the website tried to minize the page lenght by diving the fields in three parts, a user would see a notification about the empty field in the third page. | The error about empty fields must appear in all pages. 
-10.Help and Documentation | *bad* (on any device - **picture 3 & 8**): As previously mentioned in the second principle, the website apparantly assumes its users understand the term used in the fields, which could be an incorrect assumption. Providing more details about how to fill the form could be done in a way that neither confuses users nor makes aesthetic flaws. | Adding complementary information in a small clickable/touchable balloon with a "i" letter in them could mitigate the confusion. 
+6.Recognition Rather Than Recall | *bad* (on PC - **picture 9, 10, & 11**): It is not hard for a user to find the page to get his more recent I-94 (picture 10). When he checks the instruction, he finds out that Alien registration number is also called A number. And at the bottom of the instruction the blue balloon (picture 11) repeats the term "Enter your 'A' number". There is no doubt that Passport Number is (also) Alien number or A number. When the user goes to the page to fill the form, the additional information (circle with a question mark) does not prvide details about A number at all (picture 9) which makes the user confused. Apparently, it is realted to the second principle.  | Change the confusing information or remove them from the insturction. If A number is something other than a passport number which U.S. or other countries provide, it should be noted clearly, without assuming that all users know the difference.  
+7.Flexibility and Efficiency of Use | *fine-bad* (on OC and tablet - **picture 12**): The website works well both with PC's physical and tablet's on-screen keyboard. If user's device keyboard suddenly stops working, he might not be able to fill forms in this website. Although PC has an on-screen keyboard, it still needs a complex way to activate it. | A floating keyboard icon is necessary in pages with forms.
+8.Aesthetic and Minimalist Design | *bad* (on PC - **picture 13, 14, 15, 16; 8, 6**): Simialr to what we saw in the second principle, therer are aesthetic issues in a few parts which were analyzed for this assignment. | From no margin (picture 15) to the disorderly design of For International Traverllers page (picture 13), the desigers could pay attention to these details by (a) removing excessive objects (b) choose a better color combination (c) avoid overlapping texts, in order to provide a less confusing visual field for the users.
+9.Help Users Recognize, Diagnose, and Recover From Errors | *good-fair* (on any device - **picture 16**): 
+10.Help and Documentation | *bad* (on any device - **picture **): 
 
 <p align="center">
   <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20nothing%20happens.jpg" alt="visibility" height = "300px"/>
@@ -140,3 +140,49 @@ picture 7
   <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20works%20well%20-%20print%20BAD%20(scramble)%203.jpg" alt=" error 2" height = "300px"/>
 </p>
 picture 8
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20Recognition%20than%20recall.png" alt=" recognition" height = "300px"/>
+</p>
+picture 9
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20Recognition%20than%20recall%203.png" alt=" recognition 2" height = "300px"/>
+</p>
+picture 10
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20Recognition%20than%20recall%202.png" alt=" recognition 3" height = "300px"/>
+</p>
+picture 11
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2-%20Efficiency%20.jpg" alt=" effi" height = "300px"/>
+</p>
+picture 12
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20minimalist%20aesthetic.jpg" alt="aesthetic1" height = "300px"/>
+</p>
+picture 13
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20Low%20contras%20menu.jpg" alt="aesthetic2" height = "300px"/>
+</p>
+picture 14
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20works%20well%20-%20print%20BAD%20(no%20margin%20on%20left)%202.jpg" alt="aesthetic3" height = "300px"/>
+</p>
+picture 15
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20documentation%20error%20recovert%20-%20issue%20(both%20are%20red%20-%20overlap).png" alt="help user" height = "300px"/>
+</p>
+picture 16
+
+<p align="center">
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20Recognition%20than%20recall%202.png" alt=" recognition 3" height = "300px"/>
+</p>
+picture 11
+
