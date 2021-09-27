@@ -98,8 +98,8 @@ Heuristics | Evaluation | Consideration
 6.Recognition Rather Than Recall | *bad* (on PC - **picture 9, 10, & 11**): It is not hard for a user to find the page to get his more recent I-94 (picture 10). When he checks the instruction, he finds out that Alien registration number is also called A number. And at the bottom of the instruction the blue balloon (picture 11) repeats the term "Enter your 'A' number". There is no doubt that Passport Number is (also) Alien number or A number. When the user goes to the page to fill the form, the additional information (circle with a question mark) does not prvide details about A number at all (picture 9) which makes the user confused. Apparently, it is realted to the second principle.  | Change the confusing information or remove them from the insturction. If A number is something other than a passport number which U.S. or other countries provide, it should be noted clearly, without assuming that all users know the difference.  
 7.Flexibility and Efficiency of Use | *fine-bad* (on OC and tablet - **picture 12**): The website works well both with PC's physical and tablet's on-screen keyboard. If user's device keyboard suddenly stops working, he might not be able to fill forms in this website. Although PC has an on-screen keyboard, it still needs a complex way to activate it. | A floating keyboard icon is necessary in pages with forms.
 8.Aesthetic and Minimalist Design | *bad* (on PC - **picture 13, 14, 15, 16; 8, 6**): Simialr to what we saw in the second principle, therer are aesthetic issues in a few parts which were analyzed for this assignment. | From no margin (picture 15) to the disorderly design of For International Traverllers page (picture 13), the desigers could pay attention to these details by (a) removing excessive objects (b) choose a better color combination (c) avoid overlapping texts, in order to provide a less confusing visual field for the users.
-9.Help Users Recognize, Diagnose, and Recover From Errors | *good-fair* (on any device - **picture 16**): 
-10.Help and Documentation | *bad* (on any device - **picture **): 
+9.Help Users Recognize, Diagnose, and Recover From Errors | *good-fair* (on PC and tablet - **picture 16**): The website also provides links to the application both for android and ios. It is not difficult to navigate through the website and find the page. The website has two picture buttons for Google Play and App Store. When a user clicks/touches them, a warning message appears (picture 16). While two buttons, OK and Cancel are overlapping the text, they are still providing options to the user between leaving the website or cancel the action. There is at least one issue with this warning message. Two buttons are too close to one another: a user might not be able to make a contact with the button he intends to touch. The desig did not consider the different size of humans fingers and also if users suffers from some hand problems like Parkinson. | There is enough space under the text. The gap between the buttons and and the size of them can be increased. 
+10.Help and Documentation | *worse* (on any device - **picture 17**): Earlier we read about the instruction for filling out the I-94 form. At the end of the instruction (picture 17), it tells users how to print the result which is a plus based on the ninth principle. However, the shortcut does not execute print but it just copies the object (if it does). No shortcut for Mac users.| CTRL+C must be replaced by CTRL+P. It must consider other OS users such as Mac, and provide the shortcut: CMND + P.
 
 <p align="center">
   <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20nothing%20happens.jpg" alt="visibility" height = "300px"/>
@@ -182,7 +182,7 @@ picture 15
 picture 16
 
 <p align="center">
-  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20Recognition%20than%20recall%202.png" alt=" recognition 3" height = "300px"/>
+  <img src="https://github.com/ziiiaz/DH110/blob/main/W2%20-%20documentation%20bad%20mistake.png" alt="documentation" height = "300px"/>
 </p>
-picture 11
+picture 17
 
